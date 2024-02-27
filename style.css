@@ -13,7 +13,7 @@ body {
     display: flex;
     gap: 5px;
     /* height:0vh; */
-    height: 1000px;
+    height: 100vh;
     /* height:100vh; */
 }
 
@@ -97,6 +97,7 @@ body {
         gap:10px;
         /* width:126%; */
         padding:0px 36px;
+        bottom:75px;
     }
 
     .cards{
